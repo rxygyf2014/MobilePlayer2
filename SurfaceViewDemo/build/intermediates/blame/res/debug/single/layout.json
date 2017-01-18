@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MobilePlayer2\\SurfaceViewDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\MobilePlayer2\\SurfaceViewDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MobilePlayer2\\SurfaceViewDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_surface_view_test.xml",
+        "source": "D:\\AndroidStudioProjects\\MobilePlayer2\\SurfaceViewDemo\\src\\main\\res\\layout\\activity_surface_view_test.xml"
+    }
+]
